@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body { 
+    background: url(/img/diagonales_decalees.png) repeat 0 0;
+}
+
+h1 {
+    font-family: 'Lobster', Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+    font-weight: 300;
+    text-shadow: 2px 2px 2px #9d261d;
+}
+ 
+p {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+footer {
+    background-color: #9d261d;
+    border-top: 1px solid #872119;
+    color: #ddb3b0;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+    margin-top: 60px;
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
