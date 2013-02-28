@@ -8,17 +8,67 @@ body {
 
 h1 {
     font-family: 'Lobster', Georgia, Times, serif;
-    font-size: 70px;
-    line-height: 100px;
+    font-size: 50px;
+    line-height: 80px;
     font-weight: 300;
     text-shadow: 2px 2px 2px #9d261d;
+}
+.hero-unit h1 {
+    font-size: 50px;
+    }
+
+.logo{
+    font-family: 'Lobster';
+    font-size: 24px ;
+    text-shadow: 1px 1px 1px #fff;
 }
  
 p {
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 20px;
 }
+
+    p:first-child {  
+        padding: 30px;  
+        border-left: 5px solid #7f7664;  
+        background-color: #f5f4f2;   
+        line-height: 32px;  
+        box-shadow:  5px 5px 0px 0px rgba(127, 118, 100, 0.2);  
+        position: relative;  
+    }
+
+        p:first-child:first-letter {  
+        font-size: 72px;  
+        float: left;  
+        padding: 10px;  
+        height: 64px;  
+        font-family: 'Lobster';  
+        background-color: #7F7664;  
+        margin-right: 10px;  
+        color: white;  
+        border-radius: 5px;  
+        line-height: 70px;  
+    } 
+
+    p:first-child:first-line {  
+    /*font-weight: bold;*/  
+    font-size: 20px;  
+    color: #7f7664;  
+} 
+
+    p:first-child:after {  
+        /*background: url("../img/paper-clip.png") no-repeat scroll 0 0 transparent; */ 
+        content: " ";  
+        display: inline-block;  
+        height: 100px;  
+        position: absolute;  
+        rightright: -5px;  
+        top: -35px;  
+        width: 100px;  
+    }   
+
+
 footer {
     background-color: #9d261d;
     border-top: 1px solid #872119;
