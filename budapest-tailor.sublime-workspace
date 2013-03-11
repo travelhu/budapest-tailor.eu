@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"im",
+				"import"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
 				"bud",
 				"budapesti-renta_eu"
 			],
@@ -63,13 +71,73 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7119,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 5529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/programs-config/web_projects/alterations/Text/Alterations.html",
+			"settings":
+			{
+				"buffer_size": 1705,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "alterations.html",
+			"settings":
+			{
+				"buffer_size": 5846,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 212.0,
+		"height": 162.0,
 		"selected_items":
 		[
+			[
+				"g",
+				"Gist: Insert Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"file co",
+				"File: Copy as Tag a"
+			],
+			[
+				"file copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"file u",
+				"File: Copy URL"
+			],
+			[
+				"file",
+				"File: Copy Path"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
 			[
 				"Package Control: re",
 				"Package Control: Remove Package"
@@ -107,15 +175,7 @@
 				"FindKeyConflicts: Single Package Conflicts"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"gist",
-				"Gist: Insert Gist"
-			],
-			[
-				"g",
 				"Gist: Insert Gist"
 			],
 			[
@@ -187,7 +247,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 514.0
+		"width": 402.0
 	},
 	"console":
 	{
@@ -204,26 +264,58 @@
 	},
 	"file_history":
 	[
-		"/D/nginx/html/budapest-tailor/about.html",
-		"/D/nginx/html/budapest-renta_eu/index.html",
+		"/D/nginx/html/budapest-tailor/index.html",
+		"/D/nginx/html/start-bs-less/index.html",
+		"/D/nginx/html/start-bs-less/less/bootstrap.less",
+		"/D/programs-config/web_projects/alterations/Text/Alterations.html",
+		"/G/mwindowcleaning/style.css",
+		"/G/bootstrap/css/bootstrap.css",
+		"/D/nginx/html/start-bs-less/less/user.less",
+		"/G/initializr/index.html",
+		"/D/nginx/html/start-bs-less/css/main.css",
+		"/G/initializr/css/main.css",
+		"/G/initializr/css/bootstrap.css",
+		"/D/nginx/html/start-static/css/main.css",
+		"/D/nginx/html/start-static/index.html",
 		"/D/nginx/conf/nginx.conf",
+		"/C/WINDOWS/system32/drivers/etc/hosts",
+		"/D/nginx/html/budapest-tailor_tk/index.html",
+		"/D/nginx/html/budapest-tailor_tk/contacts.html",
+		"/D/nginx/html/budapest-tailor_tk/services.html",
+		"/D/nginx/html/budapest-tailor_tk/products.html",
+		"/D/nginx/html/budapest-tailor_tk/news.html",
+		"/D/nginx/html/budapest-tailor_tk/test.txt",
+		"/D/nginx/html/budapest-tailor_tk/budapest-tailor_tk.sublime-project",
+		"/G/socket.io-gh-pages/socket.io-gh-pages/css/main.css",
+		"/D/nginx/html/start-static/start-static.sublime-workspace",
+		"/D/nginx/html/budapest-tailor_tk/css/style.css",
+		"/D/nginx/html/budapest-tailor_tk/css/reset.css",
+		"/C/Documents and Settings/Administrator/Desktop/Вёрстка Обучение.txt",
+		"/G/forma.html",
+		"/C/Documents and Settings/Administrator/.ssh/id_rsa.pub",
+		"/C/Documents and Settings/Administrator/.ssh/known_hosts",
+		"/C/Documents and Settings/Administrator/putty.log",
+		"/G/cafe/css/style.css",
+		"/G/cafe/index.html",
+		"/C/Program Files/Vim/_vimrc",
+		"/D/nginx/html/budapest-tailor/.git/config",
+		"/D/nginx/html/budapest-tailor_tk/.git/config",
+		"/D/Dropbox/st3/Packages/Package Control/readme.creole",
 		"/D/nginx/logs/error.log",
 		"/D/nginx/logs/budapesti-renta_tk.access.log",
 		"/D/nginx/html/budapest-renta_tk/index.html",
 		"/D/nginx/html/budapest-renta_tk/less/font-awesome.less",
-		"/D/nginx/html/budapest-tailor/index.html",
 		"/G/Pscx-2.1.1/Pscx/ReleaseNotes.txt",
 		"/G/ReleaseNotes (1).txt",
 		"/G/ReleaseNotes.txt",
-		"/C/WINDOWS/system32/drivers/etc/hosts",
 		"/C/Documents and Settings/Administrator/.gitconfig",
 		"/D/nginx/logs/budapesti-renta_eu.access.log",
 		"/D/nginx/html/budapest-tailor/alterations.html",
+		"/D/nginx/html/budapest-tailor/about.html",
 		"/D/nginx/html/budapest-tailor/css/user.css",
 		"/Y/Как запустить.txt",
 		"/D/nginx/html/budapest-tailor/.git/COMMIT_EDITMSG",
 		"/D/nginx/html/budapest-tailor/curtain.html",
-		"/D/programs-config/web_projects/alterations/Text/Alterations.html",
 		"/D/programs-config/web_projects/alterations/Text/Classified.html",
 		"/D/nginx/html/budapest-tailor/tailoring.html",
 		"/D/nginx/html/budapest-tailor/pricelist.html",
@@ -244,6 +336,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"D:\\nginx\\html\\budapest-tailor_tk"
 		]
 	},
 	"find_state":
@@ -251,6 +344,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Progress Business Company",
+			"Domain Name",
+			"TemplateMonster.com",
+			"http://www.templatemonster.com/",
 			"li",
 			"=\"\">",
 			"Article01",
@@ -268,6 +365,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Tailor in Budapest",
+			"Budapest-Tailor.tk",
+			"Budapest1.com",
+			"#",
 			"row-fluid"
 		],
 		"reverse": false,
@@ -279,8 +380,483 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 7119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5739,
+								5739
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4617.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 5529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3575,
+								3575
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/programs-config/web_projects/alterations/Text/Alterations.html",
+					"settings":
+					{
+						"buffer_size": 1705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								119
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "alterations.html",
+					"settings":
+					{
+						"buffer_size": 5846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4271,
+								4271
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1161.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -343,7 +919,7 @@
 		[
 			[
 				"",
-				"/C/Documents and Settings/Administrator/Desktop/ST2-Projects/less/less.sublime-project"
+				"/D/nginx/html/budapest-tailor_tk/budapest-tailor_tk.sublime-project"
 			]
 		],
 		"width": 380.0
