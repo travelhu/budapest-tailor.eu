@@ -75,7 +75,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7119,
+				"buffer_size": 7152,
 				"line_ending": "Windows"
 			}
 		},
@@ -83,15 +83,25 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 5531,
+				"buffer_size": 5482,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 43 files for \"<h4>Free Pick up and Delivery within Budapest.</h4>\n                \n                <h4><i class=\"icon-refresh icon-spin icon-large\"  > </i>  <i class=\"icon-envelope icon-large\"></i> Email: elena8286@gmail.com // <i class=\"icon-phone icon-large\" ></i>  Phone: +36-20-257-4634</h4>\"\n\nD:\\nginx\\html\\budapest-tailor\\about.html:\n   84          		<h1>About Me</h1>\n   85          		<!-- <h3>Information about myself in detailes</h3> -->\n   86:                 <h4>Free Pick up and Delivery within Budapest.</h4>\n   87:                 \n   88:                 <h4><i class=\"icon-refresh icon-spin icon-large\"  > </i>  <i class=\"icon-envelope icon-large\"></i> Email: elena8286@gmail.com // <i class=\"icon-phone icon-large\" ></i>  Phone: +36-20-257-4634</h4>\n   89          	</div>\n   90  \n\nD:\\nginx\\html\\budapest-tailor\\alterations.html:\n   81                  <h3 class=\"logo\">I am offering a first-class garment alterations service</h3>\n   82  \n   83:                 <h4>Free Pick up and Delivery within Budapest.</h4>\n   84:                 \n   85:                 <h4><i class=\"icon-refresh icon-spin icon-large\"  > </i>  <i class=\"icon-envelope icon-large\"></i> Email: elena8286@gmail.com // <i class=\"icon-phone icon-large\" ></i>  Phone: +36-20-257-4634</h4>\n   86              </div>\n   87  \n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
 			}
 		},
 		{
 			"file": "alterations.html",
 			"settings":
 			{
-				"buffer_size": 5855,
+				"buffer_size": 5799,
 				"line_ending": "Windows"
 			}
 		},
@@ -336,6 +346,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"D:\\nginx\\html\\budapest-tailor",
 			"D:\\nginx\\html\\budapest-tailor_tk"
 		]
 	},
@@ -344,6 +355,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<h4>Free Pick up and Delivery within Budapest.</h4>\n                \n                <h4><i class=\"icon-refresh icon-spin icon-large\"  > </i>  <i class=\"icon-envelope icon-large\"></i> Email: elena8286@gmail.com // <i class=\"icon-phone icon-large\" ></i>  Phone: +36-20-257-4634</h4>",
 			"Progress Business Company",
 			"Domain Name",
 			"TemplateMonster.com",
@@ -365,6 +377,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<h4><i class=\"icon-refresh icon-spin icon-large\"  > </i>  <i class=\"icon-envelope icon-large\"></i> Email: <a href = \"mailto:elena8286@gmail.com\"> elena8286@gmail.com </a>  // <i class=\"icon-phone icon-large\" ></i>  Phone: +36-20-257-4634</h4>",
 			"Tailor in Budapest",
 			"Budapest-Tailor.tk",
 			"Budapest1.com",
@@ -380,7 +393,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -388,15 +401,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 7119,
+						"buffer_size": 7152,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5739,
-								5739
+								4873,
+								4873
 							]
 						],
 						"settings":
@@ -497,7 +510,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2781.0,
+						"translation.y": 4617.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -507,15 +520,15 @@
 					"file": "about.html",
 					"settings":
 					{
-						"buffer_size": 5531,
+						"buffer_size": 5482,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4891,
-								4891
+								578,
+								588
 							]
 						],
 						"settings":
@@ -616,25 +629,74 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 513.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										480,
+										775
+									],
+									[
+										988,
+										1283
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "alterations.html",
 					"settings":
 					{
-						"buffer_size": 5855,
+						"buffer_size": 5799,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3840,
-								3840
+								4465,
+								4465
 							]
 						],
 						"settings":
@@ -735,13 +797,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2538.0,
+						"translation.y": 3726.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "css/user.css",
 					"settings":
 					{
@@ -930,6 +992,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 335.0,
+	"side_bar_width": 70.0,
 	"status_bar_visible": true
 }
