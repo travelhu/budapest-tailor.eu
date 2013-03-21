@@ -71,7 +71,8 @@ p {
     } 
 
     .hero-unit{
-        box-shadow: 10px 10px 20px #002424;
+        box-shadow: 10px 10px 20px #004040;
+        border: 1px #f5f4f2;
     }  
 
 
