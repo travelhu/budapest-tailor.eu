@@ -9,7 +9,7 @@ body {
 
 
 h1 {
-    font-family: 'Lobster', Georgia, Times, serif;
+    font-family: 'Lobster Two', Georgia, Times, serif;
     font-size: 50px;
     line-height: 80px;
     font-weight: 300;
@@ -20,7 +20,7 @@ h1 {
     }
 
 .logo{
-    font-family: 'Lobster';
+    font-family: 'Lobster Two';
     font-size: 24px ;
     text-shadow: 1px 1px 1px #fff;
 }
