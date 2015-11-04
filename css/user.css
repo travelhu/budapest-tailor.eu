@@ -9,7 +9,7 @@ body {
 
 
 h1 {
-    font-family: 'Lobster Two' italic, Georgia, Times, serif;
+    font-family: Georgia, Times, serif;
     font-size: 40px;
     line-height: 70px;
     font-weight: 300;
@@ -20,7 +20,7 @@ h1 {
     }
 
 .logo{
-    font-family: 'Lobster Two';
+    font-family: Georgia;
     font-size: 24px ;
     text-shadow: 1px 1px 1px #fff;
 }
@@ -41,11 +41,11 @@ p {
     }
 
         p:first-child:first-letter {  
-        font-size: 72px;  
+        font-size: 60px;  
         float: left;  
         padding: 10px;  
         height: 64px;  
-        font-family: 'Lobster Two';  
+        font-family: Georgia;  
         background-color: #7F7664;  
         margin-right: 10px;  
         color: white;  
@@ -65,7 +65,7 @@ p {
         display: inline-block;  
         height: 100px;  
         position: absolute;  
-        rightright: -5px;  
+        right: -5px;  
         top: -35px;  
         width: 100px;  
     } 
