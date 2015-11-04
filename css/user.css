@@ -26,7 +26,7 @@ h1 {
 }
  
 p {
-    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 20px;
 }
@@ -41,16 +41,16 @@ p {
     }
 
         p:first-child:first-letter {  
-        font-size: 60px;  
+        font-size: 50px;  
         float: left;  
         padding: 10px;  
-        height: 64px;  
+        height: 60px;  
         font-family: Georgia;  
         background-color: #7F7664;  
         margin-right: 10px;  
         color: white;  
         border-radius: 5px;  
-        line-height: 70px;  
+        line-height: 62px;  
     } 
 
     p:first-child:first-line {  
