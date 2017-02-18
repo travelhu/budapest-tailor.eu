@@ -11,7 +11,7 @@ body {
 h1 {
     font-family: Georgia, Times, serif;
     font-size: 36px;
-    line-height: 70px;
+    line-height: 60px;
     font-weight: 300;
     text-shadow: 2px 2px 2px #9d261d;
 }
@@ -41,7 +41,7 @@ p {
     }
 
         p:first-child:first-letter {  
-        font-size: 50px;  
+        font-size: 40px;  
         float: left;  
         padding: 10px;  
         height: 60px;  
@@ -81,7 +81,7 @@ footer {
     border-top: 1px solid #872119;
     color: #ddb3b0;
     text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
-    margin-top: 60px;
-    padding-top: 45px;
-    padding-bottom: 60px;
+    margin-top: 40px;
+    padding-top: 25px;
+    padding-bottom: 30px;
 }
